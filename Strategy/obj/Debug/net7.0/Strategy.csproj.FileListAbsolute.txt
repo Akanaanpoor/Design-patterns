@@ -1,0 +1,15 @@
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\bin\Debug\net7.0\Strategy.exe
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\bin\Debug\net7.0\Strategy.deps.json
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\bin\Debug\net7.0\Strategy.runtimeconfig.json
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\bin\Debug\net7.0\Strategy.dll
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\bin\Debug\net7.0\Strategy.pdb
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\obj\Debug\net7.0\Strategy.csproj.AssemblyReference.cache
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\obj\Debug\net7.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfoInputs.cache
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\obj\Debug\net7.0\Strategy.AssemblyInfo.cs
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\obj\Debug\net7.0\Strategy.csproj.CoreCompileInputs.cache
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\obj\Debug\net7.0\Strategy.dll
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\obj\Debug\net7.0\refint\Strategy.dll
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\obj\Debug\net7.0\Strategy.pdb
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\obj\Debug\net7.0\Strategy.genruntimeconfig.cache
+G:\Prg\aref Prg\.Git\Design Patterns\Strategy\obj\Debug\net7.0\ref\Strategy.dll
