@@ -1,0 +1,15 @@
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\bin\Debug\net7.0\Chain of Responsibility.exe
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\bin\Debug\net7.0\Chain of Responsibility.deps.json
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\bin\Debug\net7.0\Chain of Responsibility.runtimeconfig.json
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\bin\Debug\net7.0\Chain of Responsibility.dll
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\bin\Debug\net7.0\Chain of Responsibility.pdb
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.csproj.AssemblyReference.cache
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.AssemblyInfoInputs.cache
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.AssemblyInfo.cs
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.csproj.CoreCompileInputs.cache
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.dll
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\obj\Debug\net7.0\refint\Chain of Responsibility.dll
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.pdb
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\obj\Debug\net7.0\Chain of Responsibility.genruntimeconfig.cache
+G:\Prg\aref Prg\.Git\Design Patterns\Chain of Responsibility\obj\Debug\net7.0\ref\Chain of Responsibility.dll
