@@ -12,8 +12,7 @@ namespace Strategy
             sortContext.Add(new List<string>() { "Aref", "Mosi", "Sori", "Moji" });
             sortContext.Sort();
 
-
             Console.ReadKey();
         }
     }
-}
+}   

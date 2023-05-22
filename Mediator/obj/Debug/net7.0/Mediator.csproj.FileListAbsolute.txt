@@ -1,0 +1,15 @@
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\obj\Debug\net7.0\Mediator.csproj.AssemblyReference.cache
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\obj\Debug\net7.0\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\obj\Debug\net7.0\Mediator.AssemblyInfoInputs.cache
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\obj\Debug\net7.0\Mediator.AssemblyInfo.cs
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\obj\Debug\net7.0\Mediator.csproj.CoreCompileInputs.cache
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\bin\Debug\net7.0\Mediator.exe
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\bin\Debug\net7.0\Mediator.deps.json
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\bin\Debug\net7.0\Mediator.runtimeconfig.json
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\bin\Debug\net7.0\Mediator.dll
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\bin\Debug\net7.0\Mediator.pdb
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\obj\Debug\net7.0\Mediator.dll
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\obj\Debug\net7.0\refint\Mediator.dll
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\obj\Debug\net7.0\Mediator.pdb
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\obj\Debug\net7.0\Mediator.genruntimeconfig.cache
+G:\Prg\aref Prg\.Git\Design Patterns\Mediator\obj\Debug\net7.0\ref\Mediator.dll
